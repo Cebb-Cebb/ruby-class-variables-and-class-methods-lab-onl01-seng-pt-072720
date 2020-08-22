@@ -23,6 +23,10 @@ end
     @@artists.uniq 
   end 
   
+  def self.genres
+    @@genres.uniq
+  end 
+  
 #     def artists=(artist_name)
 #   @artists = artists_name
 # end 
