@@ -28,7 +28,7 @@ end
   end 
   
   def self.genre_count
-    @@genres = {}
+    genre_count = {}
   end 
   
   
