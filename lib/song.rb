@@ -37,6 +37,7 @@ end
     end 
   end 
 end 
+end 
   
 #     def artists=(artist_name)
 #   @artists = artists_name
