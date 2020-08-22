@@ -27,6 +27,11 @@ end
     @@genres.uniq
   end 
   
+  def self.genre_count
+    @@genres = {}
+  end 
+  
+  
 #     def artists=(artist_name)
 #   @artists = artists_name
 # end 
