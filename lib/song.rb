@@ -19,6 +19,10 @@ end
     @@count
   end 
   
+  def self.artists
+    @@artists.uniq 
+  end 
+  
 #     def artists=(artist_name)
 #   @artists = artists_name
 # end 
