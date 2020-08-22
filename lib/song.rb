@@ -38,6 +38,8 @@ end
   end
     genre_count
 end
+
+
   
 #     def artists=(artist_name)
 #   @artists = artists_name
