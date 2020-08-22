@@ -52,13 +52,6 @@ end
   end 
 
 
-  
-#     def artists=(artist_name)
-#   @artists = artists_name
-# end 
-  
-#   def artists
-#     @artists
-#   end
+
   
 end 
