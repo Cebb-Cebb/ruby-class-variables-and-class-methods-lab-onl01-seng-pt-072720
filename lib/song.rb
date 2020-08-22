@@ -35,6 +35,7 @@ end
       else 
         genre_count = 1 
     end 
+  end 
 end 
   
 #     def artists=(artist_name)
