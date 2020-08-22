@@ -31,7 +31,7 @@ end
     genre_count = {}
     @@genres.each do |genre|
   end 
-  
+end 
   
 #     def artists=(artist_name)
 #   @artists = artists_name
